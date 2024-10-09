@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "3929",
+      "username": "haqos",
+      "email": "zivepyt@mailinator.com",
+      "password": "Voluptates enim inci",
+      "gender": "male",
+      "address": "Veniam vitae Nam qu",
+      "city": "pune",
+      "hobby": "Writing"
+    },
+    {
+      "id": "ce0b",
+      "username": "neha 234",
+      "email": "neha@gmail.com",
+      "password": "456789",
+      "gender": "female",
+      "hobby": "Writing",
+      "city": "surat",
+      "address": "wertyuiopdfghjkl"
+    }
+  ]
+}
